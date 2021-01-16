@@ -134,6 +134,7 @@ https://github.com/besley/Slickflow/wiki
 https://www.codeproject.com/Articles/5246528/Slickflow-NET-Core-Open-Source-Workflow-Engine 
 https://www.codeproject.com/Articles/5252483/Slickflow-Coding-Graphic-Model-User-Manual  
 **Slickflow website:**  
+http://www.slickflow.net  
 http://www.slickflow.com  
 **Demo:**  
 http://www.slickflow.com/demo/index  
@@ -147,6 +148,23 @@ http://www.slickflow.com/wiki/index
 https://forum.slickflow.com/  
 
 **Slickflow(1.7.6.0) 企业版：** 
+
+2020-11-11
+1. 新增加自动服务节点(ServiceTask)；
+2. 新增加审批网关类型(ApprovalOrSplit)；
+3. 增加或分支(OrSplit)条件都不满足时的默认分支选项；
+4. 新增表单版本功能；
+
+2020-09-14
+1. 完成表单控件数据源绑定功能；
+2. 完成表单数据控件级联事件处理；
+3. 完成表单控件基本事件响应功能；
+4. 修正表单绑定流程节点权限操作功能；
+
+2020-07-30
+1. 流程设计器Linux版本的路径大小写问题解决；
+2. 跨流程消息交互功能完整测试通过；
+3. 流程各个模块项目多语言功能完整实现；
 
 2020-05-11
 1. 中间消息节点Throw/Catch功能定义实现;
